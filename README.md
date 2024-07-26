@@ -1,6 +1,6 @@
 # Bienvenue ! Je suis Laury 👋
 
-Bienvenue sur mon profil GitHub ! Je suis en reconversion professionnelle dans le domaine du développement web. Passionné par le code et les nouvelles technologies, je suis toujours en quête d'apprentissage et de nouveaux défis.
+Bienvenue sur mon profil GitHub ! Je suis en reconversion professionnelle dans le domaine du développement web. Passionnée par le code et les nouvelles technologies, je suis toujours en quête d'apprentissage et de nouveaux défis.
 
 ## 🌐 Portfolio
 
