@@ -21,11 +21,12 @@ Tous mes projets terminés sont disponibles sur mon profil GitHub. Voici un aper
 - **Framework :** React
 - **Bibliothèque :** React Router pour la gestion des routes et la navigation.
 - **Requêtes HTTP :** Axios pour les appels vers les APIs.
-- **Intégration d'APIs :** API Twitch et API YouTube pour récupérer les données des comptes du streamer.
+- **Intégration d'APIs :** API Twitch et API YouTube pour récupérer les données des comptes d'un streamer.
 
 ## 📈 Objectifs
 
-Je suis à la recherche de projets intéressants qui me permettront de développer davantage mes compétences en développement web, notamment avec React et d'autres technologies front-end.
+- Obtenir mon Titre Professionnel Développeur Web et Web Mobile.
+- Poursuivre ma formation avec un BAC +3 Concepteur Développeur d'Applications en alternance 
 
 ## 🤝 Contact
 
